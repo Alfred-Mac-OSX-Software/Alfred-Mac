@@ -7,7 +7,7 @@
 
 <img src="https://www.alfredapp.com/media/logo4.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/alfred">
+<a href="https://mac-apps-install.github.io/.github/alfred">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
